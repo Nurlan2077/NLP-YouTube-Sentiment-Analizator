@@ -12,12 +12,16 @@
 # Примеры
 
 Источник - [**отрывок из фильма "Жмурки"**](https://youtu.be/lYWx3WK8oO8)
+Позитивное облако слов:
 ![пример1](readme_images/positive_cloud.png "Позитивное облако слов")
+Негативное облако слов:
 ![пример2](readme_images/negative_cloud.png "Негативное облако слов")
 
 Источник - [**отрывок из сериала "Есенин"**](https://youtu.be/FLTItzgBE3k)
+Позитивное облако слов:
 ![пример3](readme_images/positive_cloud2.png "Позитивное облако слов")
-![пример4](readme_images/positive_cloud2.png "Негативное облако слов")
+Негативное облако слов:
+![пример4](readme_images/negative_cloud2.png "Негативное облако слов")
 
 
 
