@@ -12,8 +12,8 @@
 # Примеры
 
 Источник - [**отрывок из фильма "Жмурки"**](https://youtu.be/lYWx3WK8oO8)
-[пример1][readme_images/negative_cloud.png]
-[пример2][readme_images/positive_cloud.png]
+![пример1](https://github.com/Nurlan2077/YTSentimentAnalizator/tree/main/readme_images/negative_cloud.png)
+![пример2][readme_images/positive_cloud.png]
 
 Источник - [**отрывок из сериала "Есенин"**](https://youtu.be/FLTItzgBE3k)
 [пример2][readme_images/positive_cloud2.png]
