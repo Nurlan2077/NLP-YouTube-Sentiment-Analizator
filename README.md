@@ -13,11 +13,11 @@
 
 Источник - [**отрывок из фильма "Жмурки"**](https://youtu.be/lYWx3WK8oO8)
 ![пример1](https://github.com/Nurlan2077/YTSentimentAnalizator/tree/main/readme_images/negative_cloud.png)
-![пример2][readme_images/positive_cloud.png]
+![пример2](readme_images/positive_cloud.png)
 
 Источник - [**отрывок из сериала "Есенин"**](https://youtu.be/FLTItzgBE3k)
-[пример2][readme_images/positive_cloud2.png]
-[пример2][readme_images/positive_cloud2.png]
+[пример3](readme_images/positive_cloud2.png)
+[пример4](readme_images/positive_cloud2.png)
 
 
 
@@ -33,7 +33,7 @@
 
 Все  запросы  идут  через  официальный  токен Google. Существуют  ограничения  в 10000 запросов  в  день, если  комментариев  под  видео  слишком  много, то  тратится  запрос  за  комментарий, поэтому  в  сервисе  считываются  только  первые 2 страницы  комментариев (примерно 40 комментариев)
 
-[пример3][readme_images/youtubeapi.png]
+[пример5](readme_images/youtubeapi.png)
 
 ## Анализ тональности комментариев
 
